@@ -9,7 +9,9 @@ body {
 footer {
   bottom: 0;
 }
-
+.portfolio-font {
+  font-size: 3.5vw;
+}
 /* nav {
   background-color: #ffffff;
   color: #bbbbbb;

@@ -12,16 +12,13 @@ footer {
 .portfolio-font {
   font-size: 3.5vw;
 }
-/* nav {
-  background-color: #ffffff;
-  color: #bbbbbb;
-}
-.navbar {
-  color: #bbbbbb;
-}
-.navbar-text {
-  background-color: #4aaaa5;
-  line-height: 93px;
+body {
+  font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+  background: url(../images/stripes-light.png);
+  background-repeat: repeat;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 h1,
 h2,
@@ -29,15 +26,15 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Georgia", Times, Times New Roman, serif !important;
+  font-family: "Georgia", Times, Times New Roman, serif;
 }
-.navbar-links {
-  line-height: 93px;
+h1 {
+  font-size: 29px;
+  font-weight: bold;
 }
-
-.img-fluid {
-  max-width: 202px !important;
+h3 {
+  font-size: 22px;
 }
-.main-section {
-  background-color: bisque;
-} */
+.border-3 {
+  border-top-width: 3px !important;
+}
